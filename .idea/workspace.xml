@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd7c442a-cff2-4912-b85e-2322fee87833" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/main.go" afterPath="$PROJECT_DIR$/main.go" />
-      <change beforePath="$PROJECT_DIR$/parser/h.bilibili.com/cos_page.go" afterPath="$PROJECT_DIR$/parser/h.bilibili.com/cos_page.go" />
-      <change beforePath="$PROJECT_DIR$/persist/itemsaver.go" afterPath="$PROJECT_DIR$/persist/itemsaver.go" />
-      <change beforePath="$PROJECT_DIR$/scheduler/queued.go" afterPath="$PROJECT_DIR$/scheduler/queued.go" />
-      <change beforePath="$PROJECT_DIR$/scheduler/simple.go" afterPath="$PROJECT_DIR$/scheduler/simple.go" />
-      <change beforePath="$PROJECT_DIR$/test/duplicate_test.go" afterPath="$PROJECT_DIR$/test/duplicate_test.go" />
-      <change beforePath="$PROJECT_DIR$/test/fetch_test/json_post_fetch_test.go" afterPath="$PROJECT_DIR$/test/fetch_test/json_post_fetch_test.go" />
-      <change beforePath="$PROJECT_DIR$/test/itemsaver_test.go" afterPath="$PROJECT_DIR$/test/itemsaver_test.go" />
-      <change beforePath="$PROJECT_DIR$/test/parser_test/parser_docList_test.go" afterPath="$PROJECT_DIR$/test/parser_test/parser_docList_test.go" />
-      <change beforePath="$PROJECT_DIR$/test/parser_test/parser_doc_detail_test.go" afterPath="$PROJECT_DIR$/test/parser_test/parser_doc_detail_test.go" />
-      <change beforePath="$PROJECT_DIR$/test/parser_test/parser_index_test.go" afterPath="$PROJECT_DIR$/test/parser_test/parser_index_test.go" />
-      <change beforePath="$PROJECT_DIR$/test/parser_test/parser_page_test.go" afterPath="$PROJECT_DIR$/test/parser_test/parser_page_test.go" />
-      <change beforePath="$PROJECT_DIR$/test/parser_test/parser_upload_count_test.go" afterPath="$PROJECT_DIR$/test/parser_test/parser_upload_count_test.go" />
-      <change beforePath="$PROJECT_DIR$/test/parser_test/parser_userinfo_test.go" afterPath="$PROJECT_DIR$/test/parser_test/parser_userinfo_test.go" />
-      <change beforePath="$PROJECT_DIR$/test/some_test.go" afterPath="$PROJECT_DIR$/test/some_test.go" />
-    </list>
+    <list default="true" id="bd7c442a-cff2-4912-b85e-2322fee87833" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-299">
-              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="e#14#254#0" expanded="true" />
               </folding>
@@ -503,7 +487,7 @@
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-299">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="e#14#254#0" expanded="true" />
           </folding>
