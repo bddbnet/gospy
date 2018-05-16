@@ -1,15 +1,16 @@
 package h_bilibili_com
 
 import (
-	"LearnGo/awe/spy2/engine"
-	"LearnGo/awe/spy2/fetcher"
-	"LearnGo/awe/spy2/model"
 	"bytes"
 	"encoding/json"
 	"fmt"
 	"strconv"
 
-	"LearnGo/awe/spy2/config"
+	"github.com/bddbnet/gospy/engine"
+	"github.com/bddbnet/gospy/fetcher"
+	"github.com/bddbnet/gospy/model"
+
+	"github.com/bddbnet/gospy/config"
 
 	"github.com/PuerkitoBio/goquery"
 )

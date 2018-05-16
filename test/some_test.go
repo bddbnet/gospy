@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"LearnGo/awe/spy2/parser/h.bilibili.com"
+	"github.com/bddbnet/gospy/parser/h.bilibili.com"
 )
 
 func TestPage(t *testing.T) {

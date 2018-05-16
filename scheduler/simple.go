@@ -1,6 +1,6 @@
 package scheduler
 
-import "LearnGo/awe/spy2/engine"
+import "github.com/bddbnet/gospy/engine"
 
 type SimpleScheduler struct {
 	workerChan chan engine.Request

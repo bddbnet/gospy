@@ -6,10 +6,10 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"LearnGo/awe/spy/engine"
-	"LearnGo/awe/spy2/model"
+	"github.com/bddbnet/gospy/engine"
+	"github.com/bddbnet/gospy/model"
 
-	"LearnGo/awe/spy2/parser/h.bilibili.com"
+	"github.com/bddbnet/gospy/parser/h.bilibili.com"
 )
 
 // step 6 doc 详情

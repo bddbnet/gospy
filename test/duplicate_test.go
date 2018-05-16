@@ -1,9 +1,10 @@
 package test
 
 import (
-	"LearnGo/awe/spy2/engine"
 	"fmt"
 	"testing"
+
+	"github.com/bddbnet/gospy/engine"
 )
 
 func TestDuplicate(t *testing.T) {

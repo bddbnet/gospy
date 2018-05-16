@@ -1,21 +1,22 @@
 package test
 
 import (
-	"LearnGo/awe/spy2/engine"
-	"LearnGo/awe/spy2/model"
 	"testing"
 
 	"context"
+
+	"github.com/bddbnet/gospy/engine"
+	"github.com/bddbnet/gospy/model"
+	"github.com/bddbnet/gospy/parser/h.bilibili.com"
+	"github.com/bddbnet/gospy/persist"
 
 	"encoding/json"
 
 	"fmt"
 	"io/ioutil"
 
-	"LearnGo/awe/spy2/persist"
 	"strconv"
 
-	"LearnGo/awe/spy2/parser/h.bilibili.com"
 	"gopkg.in/olivere/elastic.v5"
 )
 

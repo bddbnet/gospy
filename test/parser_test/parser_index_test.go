@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"LearnGo/awe/spy2/parser/h.bilibili.com"
+	"github.com/bddbnet/gospy/parser/h.bilibili.com"
 )
 
 // step 1 获取列表

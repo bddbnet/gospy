@@ -1,8 +1,6 @@
 package parser_test
 
 import (
-	"LearnGo/awe/spy2/engine"
-	"LearnGo/awe/spy2/model"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
@@ -11,7 +9,10 @@ import (
 	"strings"
 	"testing"
 
-	"LearnGo/awe/spy2/parser/h.bilibili.com"
+	"github.com/bddbnet/gospy/engine"
+	"github.com/bddbnet/gospy/model"
+
+	"github.com/bddbnet/gospy/parser/h.bilibili.com"
 )
 
 // step 3 用户信息

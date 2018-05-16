@@ -6,11 +6,11 @@ import (
 
 	"context"
 
-	"LearnGo/awe/spy2/engine"
+	"github.com/bddbnet/gospy/engine"
 
 	"fmt"
 
-	"LearnGo/awe/spy2/config"
+	"github.com/bddbnet/gospy/config"
 
 	"gopkg.in/olivere/elastic.v5"
 )

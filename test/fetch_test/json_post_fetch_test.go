@@ -1,14 +1,16 @@
 package fetch_test
 
 import (
-	"LearnGo/awe/spy/engine"
 	"encoding/json"
 	"testing"
 
-	"LearnGo/awe/spy2/fetcher"
+	"github.com/bddbnet/gospy/engine"
+
 	"fmt"
 	"io/ioutil"
 	"strings"
+
+	"github.com/bddbnet/gospy/fetcher"
 )
 
 func TestJsonPostFetch(t *testing.T) {
