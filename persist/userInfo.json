@@ -1,0 +1,59 @@
+{
+  "status": true,
+  "data": {
+    "mid": "25000899",
+    "name": "狩子和光哥",
+    "approve": false,
+    "sex": "女",
+    "rank": "10000",
+    "face": "http://i0.hdslb.com/bfs/face/b65639bd96c035889d01045bcaad0d0d0a0e5c0c.jpg",
+    "DisplayRank": "10000",
+    "regtime": 1456668728,
+    "spacesta": 2,
+    "birthday": "0000-00-00",
+    "place": "广东省 广州市",
+    "description": "",
+    "article": 0,
+    "sign": "微博@变态狩子 .粉丝群:596536934.B站放送狩子cosplay作品和柴犬光哥无节操生活.授权转载以及商业合作请私信.",
+    "level_info": {
+      "current_level": 5,
+      "current_min": 10800,
+      "current_exp": 17668,
+      "next_exp": 28800
+    },
+    "pendant": {
+      "pid": 0,
+      "name": "",
+      "image": "",
+      "expire": 0
+    },
+    "nameplate": {
+      "nid": 0,
+      "name": "",
+      "image": "",
+      "image_small": "",
+      "level": "",
+      "condition": ""
+    },
+    "official_verify": {
+      "type": -1,
+      "desc": ""
+    },
+    "vip": {
+      "vipType": 0,
+      "vipDueDate": 0,
+      "dueRemark": "",
+      "accessStatus": 1,
+      "vipStatus": 0,
+      "vipStatusWarn": ""
+    },
+    "toutu": "bfs/space/768cc4fd97618cf589d23c2711a1d1a729f42235.png",
+    "toutuId": 1,
+    "theme": "default",
+    "theme_preview": "",
+    "coins": 0,
+    "im9_sign": "414e26746921857ce4e196aa6b4ab7da",
+    "playNum": 1259553,
+    "fans_badge": true
+  }
+}

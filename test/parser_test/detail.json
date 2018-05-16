@@ -1,0 +1,58 @@
+
+{
+  "code": 0,
+  "msg": "success",
+  "message": "success",
+  "data": {
+    "user": {
+      "uid": 1430416,
+      "head_url": "https://i2.hdslb.com/bfs/face/836f6787d703a70537d505d4402936197dd3f3c6.jpg",
+      "name": "瞬瞬surmiya",
+      "upload_count": 58
+    },
+    "item": {
+      "biz": 3,
+      "doc_id": 2532912,
+      "poster_uid": 1430416,
+      "category": "daily",
+      "type": 0,
+      "title": "",
+      "tags": [
+        {
+          "tag": "汉服",
+          "type": 1,
+          "category": "daily",
+          "text": "汉服",
+          "name": "汉服"
+        }
+      ],
+      "pictures": [
+        {
+          "img_src": "https://i0.hdslb.com/bfs/album/93d54b337dc0e5e8935122542f4d3b11f14f6b65.jpg",
+          "img_width": 2048,
+          "img_height": 1375
+        }
+      ],
+      "source": null,
+      "upload_time": "2018-03-02 11:28:02",
+      "upload_timestamp": 1519961282,
+      "upload_time_text": "2月前",
+      "description": "大家元宵节快乐哦！",
+      "role": null,
+      "settings": {
+        "copy_forbidden": 0
+      },
+      "already_collected": 0,
+      "already_liked": 0,
+      "user_status": 0,
+      "at_control": "",
+      "view_count": 809,
+      "like_count": 0,
+      "collect_count": 0,
+      "verify_status": 1,
+      "already_voted": 0,
+      "vote_count": 32,
+      "comment_count": 5
+    }
+  }
+}
